@@ -1,0 +1,9 @@
+name: FallingTree
+main: Renz\FallingTree\Main
+version: 1.0.0
+api: 5.0.0
+author: Renz
+permissions:
+  fallingtree.use:
+    description: Allows the player to use the Falling Tree feature
+    default: op
