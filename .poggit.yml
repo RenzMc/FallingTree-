@@ -5,4 +5,5 @@ branches:
 projects:
   FallingTree-:
     path: ""
+    icon: "icon.png"
 ...
